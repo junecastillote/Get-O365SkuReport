@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<options
+	enableDebug="1"
+	sendReport="1"
+	toAddress=""
+	fromAddress=""
+	enableHousekeeping="1"
+	daysToKeep="60"
+/>

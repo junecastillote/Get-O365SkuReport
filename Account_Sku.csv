@@ -1,0 +1,5 @@
+SkuPartNumber,SkuFriendlyName,Threshold,Monitor
+DEVELOPERPACK,Office 365 Enterprise E3 Developer,10,1
+AAD_PREMIUM_P2,Azure Active Directory Premium P2,10,1
+POWER_BI_STANDARD,Power BI (free),10,1
+ATA,Azure Advanced Threat Protection for Users,10,1
